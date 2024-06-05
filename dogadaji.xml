@@ -1,0 +1,14 @@
+<dogadanja>
+    <dogadaj>
+        <vrsta>turneja</vrsta>
+        <datum>2024-09-28</datum>
+        <vrijeme>18:30</vrijeme>
+        <lokacija>Brooklyn Paramount, Brooklyn, NY, US</lokacija>
+    </dogadaj>
+    <dogadaj>
+        <vrsta>turneja</vrsta>
+        <datum>2024-10-12</datum>
+        <vrijeme>9:10</vrijeme>
+        <lokacija>Austin, TX, USA</lokacija>
+    </dogadaj>
+</dogadanja>
